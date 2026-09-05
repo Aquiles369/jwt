@@ -40,7 +40,9 @@
 
 ## ꧁ Lista de informes link directo ꧂
 ```yam
-
+https://medium.com/@vishalsharma445500/hacking-apis-series-14-36-mastering-jwt-json-web-tokens-7d12477f6dd8
+https://medium.com/@vishalsharma445500/hacking-apis-series-15-36-jwt-json-web-token-attacks-20c5dc6fbe3f
+https://medium.com/@mohaba746/dont-trust-the-token-the-art-of-jwt-attacks-1a76aae95a63
 
 ```
 

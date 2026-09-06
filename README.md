@@ -33,8 +33,10 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg3dThzazNwN2lrYjVscGdwMmRyN2xlb2NrcWJsamUwMXFjbXM5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1CoTS8bsIdPaRNS7fs/giphy.gif" width = 80px>  </picture> ༒︎ JWT ༒︎
-
+<picture>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg3dThzazNwN2lrYjVscGdwMmRyN2xlb2NrcWJsamUwMXFjbXM5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1CoTS8bsIdPaRNS7fs/giphy.gif" width="80px">
+</picture>
+<b>༒︎ JWT ༒︎</b>
 <br><br>
 
 **✦ En esta sección encontrarás 32 informes reales sobre JWT que leí, estudié y guardé en mi gestor de informes para bug bounty personal.**
@@ -85,5 +87,11 @@ https://medium.com/@mayank_prajapati/jwt-attacks-algorithm-confusion-vulnerabili
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3podm1rZ3Y4amU5d3hpdmxucGhydGd3MnF1ZndudzhlenV0eWxkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cByts7baForf4uj0eU/giphy.gif" width = 80px>  </picture> “Analizar cientos de técnicas no te da más payloads, te da otra forma de observar aplicaciones.” <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3podm1rZ3Y4amU5d3hpdmxucGhydGd3MnF1ZndudzhlenV0eWxkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cByts7baForf4uj0eU/giphy.gif" width = 80px>
+<picture>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3podm1rZ3Y4amU5d3hpdmxucGhydGd3MnF1ZndudzhlenV0eWxkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cByts7baForf4uj0eU/giphy.gif" width="80px">
+</picture>
+<b>“Analizar cientos de técnicas no te da más payloads, te da otra forma de observar aplicaciones.”</b>
+<picture>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3podm1rZ3Y4amU5d3hpdmxucGhydGd3MnF1ZndudzhlenV0eWxkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cByts7baForf4uj0eU/giphy.gif" width="80px">
+</picture>
 <br><picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>

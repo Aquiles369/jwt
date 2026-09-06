@@ -14,7 +14,7 @@
 
 <br>
 
-𓆩⚜𓆪 API REST 𓆩⚜𓆪 es una arquitectura de APIs basada normalmente en HTTP y recursos accesibles mediante endpoints, métodos como GET, POST, PUT, PATCH y DELETE, parámetros, headers y cuerpos JSON, siendo una superficie muy importante en bug bounty para buscar fallos de autenticación y autorización, IDOR/BOLA, exposición de datos, mass assignment, errores de lógica de negocio y configuraciones inseguras.<br><br>
+𓆩⚜𓆪 JWT 𓆩⚜𓆪 es un formato de token utilizado comúnmente para autenticación, autorización y manejo de sesiones en aplicaciones web y APIs, compuesto por header, payload y firma, siendo una superficie muy importante en bug bounty para buscar fallos como validación incorrecta de firmas, aceptación de algoritmos inseguros, confusión de algoritmos, manipulación de claims, expiración mal validada, reutilización de tokens, exposición de información sensible, problemas con `kid`, `jku` o `jwk`, claves débiles y bypasses de autenticación o autorización.<br><br>
 
 ✦ Es la colección de informes más completa que pude lograr, buscando en diferentes rincones de Internet.<br><br>
 
@@ -34,7 +34,7 @@
 
 <br><br>
 
-**✦ En esta sección encontrarás 3 informes reales sobre JWT que leí, estudié y guardé en mi gestor de informes para bug bounty personal.**
+**✦ En esta sección encontrarás 32 informes reales sobre JWT que leí, estudié y guardé en mi gestor de informes para bug bounty personal.**
 <br><br>
 
 
@@ -60,17 +60,18 @@ https://infosecwriteups.com/revisiting-jwt-token-forgery-attack-on-a-recent-boun
 http://freedium-mirror.cfd/https://karol-mazurek.medium.com/appsec-tales-viii-jwt-7e28b8fc0dd2
 https://medium.com/@ProwlSec/jwt-auth-gone-wild-the-unexpected-twist-a0b2ed943225
 https://freedium-mirror.cfd/https://infosecwriteups.com/unbelievable-security-hole-jwt-secret-in-a-series-b-funded-company-540434b54e59
-
-
-
-
-
-
-
-
-
-
-
+https://medium.com/@ksreemosmar/exploiting-weak-jwt-secrets-in-a-bug-bounty-target-377f79b57b26
+https://freedium-mirror.cfd/https://medium.com/@reyanshicodes/your-jwt-implementation-will-get-you-hacked-the-vulnerabilities-83ff27919600
+https://medium.com/@monethic/jwt-post-exploitation-vectors-cbaa90ac1a65
+https://medium.com/@shoaibbinrashid11/jwt-hacking-handbook-from-ctfs-to-real-world-pentesting-eb8850a4e833
+https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8
+https://freedium-mirror.cfd/https://codewithvamp.medium.com/how-a-forged-jwt-token-exposed-egift-cards-of-all-users-worth-millions-685f6cd20824
+https://medium.com/@samhilliard/in-this-post-ill-show-you-how-to-use-jwt-tool-to-analyze-and-exploit-jwt-vulnerabilities-in-97c62a0e6ac5
+https://freedium-mirror.cfd/https://infosecwriteups.com/jwt-security-in-2025-are-we-finally-free-from-leaks-3552fce24690
+https://medium.com/@cyberspecter/from-frustration-to-discovery-how-a-simple-tip-helped-me-uncover-a-jwt-data-exposure-d149a7afe4a2
+https://medium.com/@d7meealz/jwt-authentication-bypass-eebed5346079
+https://freedium-mirror.cfd/https://medium.verylazytech.com/jwt-hacking-toolkit-20-real-hacker-techniques-to-master-authentication-attacks-acc75a736e6e
+https://medium.com/@mayank_prajapati/jwt-attacks-algorithm-confusion-vulnerability-ce4bcfa3854a
 
 ```
 

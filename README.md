@@ -13,21 +13,30 @@
 <picture>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5uNHl6eW5sMXB6Y25obnRpeG52Mm12dmtkNTk2dGFyYjVyejl0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6zEPouWkkekb8exj3/giphy.gif" width="75px">
 </picture>
+
 <b>༒︎ JWT ༒︎</b>
 
 <br>
 
-𓆩⚜𓆪 JWT 𓆩⚜𓆪 es un formato de token utilizado comúnmente para autenticación, autorización y manejo de sesiones en aplicaciones web y APIs, compuesto por header, payload y firma, siendo una superficie muy importante en bug bounty para buscar fallos como validación incorrecta de firmas, aceptación de algoritmos inseguros, confusión de algoritmos, manipulación de claims, expiración mal validada, reutilización de tokens, exposición de información sensible, problemas con `kid`, `jku` o `jwk`, claves débiles y bypasses de autenticación o autorización.
+<p>
+𓆩⚜𓆪 JWT 𓆩⚜𓆪 es un formato de token utilizado comúnmente para autenticación, autorización y manejo de sesiones en aplicaciones web y APIs, compuesto por header, payload y firma, siendo una superficie muy importante en bug bounty para buscar fallos como validación incorrecta de firmas, aceptación de algoritmos inseguros, confusión de algoritmos, manipulación de claims, expiración mal validada, reutilización de tokens, exposición de información sensible, problemas con <code>kid</code>, <code>jku</code> o <code>jwk</code>, claves débiles y bypasses de autenticación o autorización.
+</p>
 
+<p>
+✦ Es la colección de informes más completa que pude lograr, buscando en diferentes rincones de Internet.
+</p>
 
-✦ Es la colección de informes más completa que pude lograr, buscando en diferentes rincones de Internet.<br><br>
+<p>
+<strong>✦ Tip:</strong> en caso de que FreeMedium esté caído, casi siempre aparece algún mirror o alternativa similar.
+</p>
 
-<b> ✦ Tip:</b> en caso de que FreeMedium esté caído, casi siempre aparece algún mirror o alternativa similar.<br><br>
+<p>
+✦ Las técnicas y patrones generales de cada informe me los reservo, al menos hasta el momento de publicar mi tool web, anteriormente llamada <strong>Excalibur</strong> y hoy en día llamada <strong>❦ Lanza del Cielo Invertida ❦</strong>.
+</p>
 
-✦ Las técnicas y patrones generales de cada informe me los reservo, al menos hasta el momento de publicar mi tool web, anteriormente llamada <b>Excalibur</b> y hoy en día llamada <b>  ❦ Lanza del Cielo Invertida ❦ </b>.<br><br>
-
+<p>
 𓆩⚜𓆪 Saludos 𓆩⚜𓆪
-
+</p>
 
 <br>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>

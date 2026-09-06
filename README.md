@@ -14,7 +14,7 @@
 
 <br>
 
-𓆩⚜𓆪 JWT 𓆩⚜𓆪 es un formato de token utilizado comúnmente para autenticación, autorización y manejo de sesiones en aplicaciones web y APIs, compuesto por header, payload y firma, siendo una superficie muy importante en bug bounty para buscar fallos como validación incorrecta de firmas, aceptación de algoritmos inseguros, confusión de algoritmos, manipulación de claims, expiración mal validada, reutilización de tokens, exposición de información sensible, problemas con `kid`, `jku` o `jwk`, claves débiles y bypasses de autenticación o autorización.<br><br>
+𓆩⚜𓆪 JWT 𓆩⚜𓆪 es un formato de token utilizado comúnmente para autenticación, autorización y manejo de sesiones en aplicaciones web y APIs, compuesto por header, payload y firma, siendo una superficie muy importante en bug bounty para buscar fallos como validación incorrecta de firmas, aceptación de algoritmos inseguros, confusión de algoritmos, manipulación de claims, expiración mal validada, reutilización de tokens, exposición de información sensible, problemas con kid, jku o jwk, claves débiles y bypasses de autenticación o autorización.<br><br>
 
 ✦ Es la colección de informes más completa que pude lograr, buscando en diferentes rincones de Internet.<br><br>
 

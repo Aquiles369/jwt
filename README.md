@@ -43,6 +43,34 @@
 https://medium.com/@vishalsharma445500/hacking-apis-series-14-36-mastering-jwt-json-web-tokens-7d12477f6dd8
 https://medium.com/@vishalsharma445500/hacking-apis-series-15-36-jwt-json-web-token-attacks-20c5dc6fbe3f
 https://medium.com/@mohaba746/dont-trust-the-token-the-art-of-jwt-attacks-1a76aae95a63
+https://medium.com/@vipulparveenjain/exploiting-flawed-jwt-signature-verification-jwt-series-part-2a-eea18c52f36c
+https://medium.com/@WorldVLive/stop-making-these-5-fatal-jwt-mistakes-and-how-to-fix-them-ad9d07046998
+https://medium.com/@musab_alharany/10-ways-to-exploit-json-web-token-jwt-ac5f4efbc41b
+https://medium.com/@AlQa3Qa3_M0X0101/how-i-was-able-to-get-account-takeover-via-idor-form-jwt-caaf7ea58aa
+https://medium.com/@nirdesh123raya/exploiting-json-web-tokens-jwt-for-full-account-takeover-13ed5e4ab3bd
+https://medium.com/@ydvashish/how-i-gained-unauthorized-access-to-organization-admin-panel-by-jwt-manipulation-67a6ff09bfa1
+https://freedium-mirror.cfd/https://cybersecuritywriteups.com/5-jwt-logic-confusion-bypassing-authentication-b247f7910f70
+https://freedium-mirror.cfd/https://hcibo.medium.com/our-nemesis-anonymous-jwt-token-48b1a7c90a77
+https://dk9510.medium.com/json-web-tokens-vulnerabilities-and-exploitation-9c6689616396
+https://freedium-mirror.cfd/https://medium.com/cloud-security/oauth-and-jwt-attacks-3840fe2a113f
+https://infosecwriteups.com/stealing-jwt-tokens-via-oauth-redirect-uri-manipulation-a-critical-vulnerability-abbd579b5443
+https://medium.com/@roshan.reju/attacking-json-web-tokens-892fc76b7fcf
+https://dannynweke.medium.com/jwt-security-common-vulnerabilities-and-how-to-test-them-8d7badc38a01
+https://infosecwriteups.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df
+http://freedium-mirror.cfd/https://karol-mazurek.medium.com/appsec-tales-viii-jwt-7e28b8fc0dd2
+https://medium.com/@ProwlSec/jwt-auth-gone-wild-the-unexpected-twist-a0b2ed943225
+https://freedium-mirror.cfd/https://infosecwriteups.com/unbelievable-security-hole-jwt-secret-in-a-series-b-funded-company-540434b54e59
+
+
+
+
+
+
+
+
+
+
+
 
 ```
 

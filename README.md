@@ -10,7 +10,10 @@
 
 ##
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5uNHl6eW5sMXB6Y25obnRpeG52Mm12dmtkNTk2dGFyYjVyejl0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6zEPouWkkekb8exj3/giphy.gif" width = 75px>  </picture> ༒︎ JWT ༒︎
+<picture>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5uNHl6eW5sMXB6Y25obnRpeG52Mm12dmtkNTk2dGFyYjVyejl0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6zEPouWkkekb8exj3/giphy.gif" width="75px">
+</picture>
+<b>༒︎ JWT ༒︎</b>
 
 <br>
 

@@ -20,8 +20,7 @@
 
 <b> ✦ Tip:</b> en caso de que FreeMedium esté caído, casi siempre aparece algún mirror o alternativa similar.<br><br>
 
-✦ Las técnicas y patrones generales de cada informe me los reservo, al menos hasta el momento de publicar mi tool web, anteriormente llamada <b>Excalibur</b> y hoy en 
-  día llamada <b>  ❦ Lanza del Cielo Invertida ❦ </b>.<br><br>
+✦ Las técnicas y patrones generales de cada informe me los reservo, al menos hasta el momento de publicar mi tool web, anteriormente llamada <b>Excalibur</b> y hoy en día llamada <b>  ❦ Lanza del Cielo Invertida ❦ </b>.<br><br>
 
 𓆩⚜𓆪 Saludos 𓆩⚜𓆪
 

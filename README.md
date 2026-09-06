@@ -14,7 +14,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5uNHl6eW5sMXB6Y25obnRpeG52Mm12dmtkNTk2dGFyYjVyejl0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6zEPouWkkekb8exj3/giphy.gif" width="75px">
 </picture> ༒︎ JWT ༒︎
 
-<br>
+<br><br>
 
 <p>
  JWT  es un formato de token utilizado comúnmente para autenticación, autorización y manejo de sesiones en aplicaciones web y APIs, compuesto por header, payload y firma, siendo una superficie muy importante en bug bounty para buscar fallos como validación incorrecta de firmas, aceptación de algoritmos inseguros, confusión de algoritmos, manipulación de claims, expiración mal validada, reutilización de tokens, exposición de información sensible, claves débiles y bypasses de autenticación o autorización.
